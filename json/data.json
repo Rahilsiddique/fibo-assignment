@@ -6,17 +6,20 @@
       {
         "name": "Dandan Noodles",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       },
       {
-        "name": "Dandan Noodles",
+        "name": "Chow Mien",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       },
       {
-        "name": "Dandan Noodles",
+        "name": "Lo Mein",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       }
     ]
   },
@@ -25,19 +28,22 @@
     "foodOrigin": "Indian",
     "availableFood": [
       {
-        "name": "Dandan Noodles",
+        "name": "Hyderabadi",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       },
       {
-        "name": "Dandan Noodles",
+        "name": "Lucknowi",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       },
       {
-        "name": "Dandan Noodles",
+        "name": "Kolkata",
         "time": "10 min",
-        "calories": 75
+        "calories": 75,
+        "foodImg": "food1.jpg"
       }
     ]
   }

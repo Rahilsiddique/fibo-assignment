@@ -1,0 +1,17 @@
+[
+  {
+    "type": "chinese",
+    "price": 299,
+    "offer": "22% + 30% off - Expires in 1h"
+  },
+  {
+    "type": "Indian",
+    "price": 299,
+    "offer": "22% + 30% off - Expires in 1h"
+  },
+  {
+    "type": "Korean",
+    "price": 299,
+    "offer": "22% + 30% off - Expires in 1h"
+  }
+]

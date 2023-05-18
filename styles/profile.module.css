@@ -19,7 +19,7 @@
   gap: 10px;
 }
 .nameCenter {
-  font-weight: 600;
+  font-weight: 500;
   font-size: larger;
   color: white;
 }
@@ -27,6 +27,7 @@
   font-weight: 400;
   font-size: smaller;
   color: white;
+  padding: 5px 0;
 }
 .shadow {
   box-shadow: 0 5rem 10rem 15rem;

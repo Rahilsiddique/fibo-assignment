@@ -1,6 +1,9 @@
 import Image from "next/image";
 import React from "react";
 import styles from "../styles/foodmenu.module.css";
+import FoodList from "./FoodList";
+import Coupan from "./Coupan";
+import OrderButton from "./OrderButton";
 
 const FoodMenu = () => {
   return (
@@ -16,14 +19,10 @@ const FoodMenu = () => {
       </div>
       <div className={styles.foodLayout}>
         <div className={styles.foodCenter}>Food Center</div>
-        <div>
-          {[...Array(20)].map((e: any, i: number) =>
-            <h1 key={e}>
-              {i}
-            </h1>
-          )}
-        </div>
+        <FoodList />
       </div>
+      <Coupan />
+      <OrderButton />
     </div>
   );
 };

@@ -1,0 +1,13 @@
+.order {
+  padding: 20px;
+}
+
+.orderBtn {
+  all: unset;
+  width: 100%;
+  padding: 14px 0;
+  color: white;
+  background-color: #d15439;
+  text-align: center;
+  border-radius: 8px;
+}

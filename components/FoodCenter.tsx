@@ -16,7 +16,7 @@ const FoodCenter = () => {
           />
         </div>
         <div className={styles.profileTitles}>
-          <div className={styles.nameCenter}>Name Center</div>
+          <div className={styles.nameCenter}>Rahil Center</div>
           <div className={styles.nameTitle}>Food Influencer</div>
         </div>
       </div>

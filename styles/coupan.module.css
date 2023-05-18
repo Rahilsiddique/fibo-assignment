@@ -1,0 +1,61 @@
+.coupan {
+  display: flex;
+  overflow-x: auto;
+  color: white;
+  background: #0d1317;
+  gap: 1rem;
+  padding: 0 15px;
+}
+.coupanTitle {
+  color: white;
+  font-size: larger;
+  padding: 15px 20px;
+  padding-top: 30px;
+}
+.coupan > div {
+  min-width: 190px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.coupan > div:first-child {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 150px;
+  gap: 10px;
+}
+
+.coupanOfferTexts {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.coupanOfferText {
+  font-weight: 500;
+}
+.coupanDate {
+  font-size: small;
+}
+
+/* style for coupan list item */
+.coupanItem {
+  background: #415663;
+  margin: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.itemType {
+  font-size: small;
+}
+
+.itemOffer {
+  font-size: x-small;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}

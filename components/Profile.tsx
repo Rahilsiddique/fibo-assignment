@@ -9,8 +9,8 @@ const Profile = () => {
       <div className={styles.imgSpace}>
         <Image
           src="/Vector.svg"
-          height={30}
-          width={30}
+          height={26}
+          width={26}
           alt="share"
           className={styles.shareIcon}
         />
