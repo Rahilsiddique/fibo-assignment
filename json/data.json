@@ -1,0 +1,44 @@
+[
+  {
+    "foodType": "Noodles",
+    "foodOrigin": "Chinese",
+    "availableFood": [
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      },
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      },
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      }
+    ]
+  },
+  {
+    "foodType": "Biryani",
+    "foodOrigin": "Indian",
+    "availableFood": [
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      },
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      },
+      {
+        "name": "Dandan Noodles",
+        "time": "10 min",
+        "calories": 75
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+.bg {
+  background: url('/bg.png');
+  height: 100vh;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+  z-index: -1;
+  background-attachment: fixed;
+}

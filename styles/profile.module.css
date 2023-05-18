@@ -1,0 +1,34 @@
+.layout {
+  z-index: 100;
+  height: 100%;
+  position: relative;
+}
+.imgSpace {
+  height: 80%;
+}
+.shareIcon {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.profileInfo {
+  display: flex;
+  align-items: center;
+  padding: 10px 25px;
+  gap: 10px;
+}
+.nameCenter {
+  font-weight: 600;
+  font-size: larger;
+  color: white;
+}
+.nameTitle {
+  font-weight: 400;
+  font-size: smaller;
+  color: white;
+}
+.shadow {
+  box-shadow: 0 5rem 10rem 15rem;
+  background-color: black;
+}
